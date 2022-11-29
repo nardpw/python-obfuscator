@@ -8,7 +8,7 @@
 
 # Examples
 
-*obfuscator 1 is very glitchy
+*obfuscator v1 is very glitchy
 
 ## sample 1 outputs
 
