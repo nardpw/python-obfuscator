@@ -1,6 +1,6 @@
 # Usage
 
-`py <obfuscator_1|obfuscator_2|obfuscator_2_and_1> <filename>`
+`py <obfuscator_1.py|obfuscator_2.py|obfuscator_2_and_1.py> <filename>`
 
 ## Options:
     -o --output     output name
